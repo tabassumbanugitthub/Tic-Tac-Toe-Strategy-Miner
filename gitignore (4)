@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.db
+.spyproject/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Exported files
+*.csv
